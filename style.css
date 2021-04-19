@@ -1,0 +1,47 @@
+.canvas{
+	padding-top: 50px;
+	padding-bottom: 30px;
+
+}
+
+.mynav li a{
+	color: #696969;
+	font-family: Helvetica;
+	padding-bottom: 50px;
+}
+
+.mynav li a:hover{
+	color: rgb(220, 220, 220);
+}
+
+.subsection{
+	padding-top: 50px;
+}
+
+.header-sum{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.main-sum{
+	font-family: 'Quicksand', sans-serif;
+}
+
+
+#tab-about{
+	padding-right: 2px; 
+}
+
+.tab-header{
+	padding-bottom: 50px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.project-row{
+	padding-bottom: 50px;
+}
+
+.bio .container .row{
+	background-color: #696969;
+	margin-left: 20%;
+	margin-right: 20%;
+}
