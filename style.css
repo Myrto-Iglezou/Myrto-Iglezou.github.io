@@ -22,10 +22,19 @@
 	font-family: 'Josefin Sans', sans-serif;
 }
 
-.main-sum{
+.main-sum, .moreInfo, .info{
 	font-family: 'Quicksand', sans-serif;
 }
 
+.text-justify{
+	text-align: justify;
+  	text-justify: inter-word;
+}
+
+.moreInfo {
+	border-left-color: #696969;
+	padding-left: 15px;
+}
 
 #tab-about{
 	padding-right: 2px; 
@@ -41,7 +50,48 @@
 }
 
 .bio .container .row{
-	background-color: #696969;
+	/*background-color: #696969;*/
 	margin-left: 20%;
 	margin-right: 20%;
+}
+
+#myAvatar {
+  border-radius: 50%;
+  max-width: 50%;  
+}
+
+.education, .university, .work{
+	padding-bottom: 30px;
+}
+
+.education{
+	padding-top: 20px;
+}
+
+.my-card-link{
+	color: black;
+}
+
+.contact-section{
+	padding-top: 50px;
+}
+.contact-item{
+	padding-left: 20px;
+	padding-right: 20px;
+	color: black;
+}
+
+.contact-item:hover{
+	color: #696969;
+}
+
+.footer {
+    clear: both;
+    position: relative;
+	margin-bottom: 10px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.summary,.contact-section{
+	padding-bottom: 50px;
 }
