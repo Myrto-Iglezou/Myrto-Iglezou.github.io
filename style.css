@@ -78,11 +78,11 @@
 .contact-item{
 	padding-left: 20px;
 	padding-right: 20px;
-	color: black;
+	color: #ffba7a ;
 }
 
 .contact-item:hover{
-	color: #696969;
+	color: #FFA571;
 }
 
 .footer {
